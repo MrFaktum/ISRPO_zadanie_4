@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\ISRPO_git\\ISRPO_zadanie_4\\WpfGitExercise4.2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA5CEFD3-B10B-4112-B3AF-B803C3BC63BB}|WpfGitExercise4.2.csproj|c:\\users\\administrator\\desktop\\isrpo_git\\isrpo_zadanie_4\\wpfgitexercise4.2\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA5CEFD3-B10B-4112-B3AF-B803C3BC63BB}|WpfGitExercise4.2.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA5CEFD3-B10B-4112-B3AF-B803C3BC63BB}|WpfGitExercise4.2.csproj|c:\\users\\administrator\\desktop\\isrpo_git\\isrpo_zadanie_4\\wpfgitexercise4.2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FA5CEFD3-B10B-4112-B3AF-B803C3BC63BB}|WpfGitExercise4.2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA5CEFD3-B10B-4112-B3AF-B803C3BC63BB}|WpfGitExercise4.2.csproj|c:\\users\\administrator\\desktop\\isrpo_git\\isrpo_zadanie_4\\wpfgitexercise4.2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA5CEFD3-B10B-4112-B3AF-B803C3BC63BB}|WpfGitExercise4.2.csproj|C:\\Users\\Administrator\\Desktop\\ISRPO_git\\ISRPO_zadanie_4\\WpfGitExercise4.2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA5CEFD3-B10B-4112-B3AF-B803C3BC63BB}|WpfGitExercise4.2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ISRPO_git\\ISRPO_zadanie_4\\WpfGitExercise4.2\\Window1.xaml",
+              "RelativeDocumentMoniker": "Window1.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ISRPO_git\\ISRPO_zadanie_4\\WpfGitExercise4.2\\Window1.xaml",
+              "RelativeToolTip": "Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T12:48:46.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ISRPO_git\\ISRPO_zadanie_4\\WpfGitExercise4.2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -34,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ISRPO_git\\ISRPO_zadanie_4\\WpfGitExercise4.2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T10:54:01.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T10:54:01.962Z"
             }
           ]
         }
