@@ -20,5 +20,16 @@ namespace WpfGitExercise4._2
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 Win1 = new Window1();
+            Win1.Show();
+        }
+        private void textChangedEventHandler(object sender, TextChangedEventArgs args)
+        {
+            myTextBox.Text = "Опа";
+        }
+
     }
 }
